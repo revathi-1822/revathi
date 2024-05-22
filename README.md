@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Revathi Bursu</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPgJ8ImsLgorbJF-yHO0qsZba3A69VZkdG9qeJdxXMw&s">
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/revathi-1822](https://github.com/revathi-1822)
