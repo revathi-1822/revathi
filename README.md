@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Revathi Bursu</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPgJ8ImsLgorbJF-yHO0qsZba3A69VZkdG9qeJdxXMw&s">
+<img align="right" width="400" src="https://camo.githubusercontent.com/bf67beb7d48581e748a5d7f787fd63a6c1be030359ee7b4004d1bae224a3741b/68747470733a2f2f632e74656e6f722e636f6d2f4267695f35346d6565694d41414141432f616e696d652d747970696e672e676966">
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/revathi-1822](https://github.com/revathi-1822)
